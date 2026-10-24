@@ -1,24 +1,12 @@
-<img src="./assets/header.svg" width="100%" alt="Parv Mittal — software engineer, product developer and AI agent engineer"/>
+<img src="./assets/hero.svg" width="100%" alt="Parv Mittal — software engineer, product developer and AI agent engineer"/>
 
-I build software products, full-stack applications and AI-powered workflows, and I like taking an idea all the way from a rough spec to something people use. Most of my recent work is about wiring AI agents to real tools: discovering what a tool can do, getting the right authorization, calling it correctly and turning the result into something useful.
+I build software products, full-stack applications and AI-powered workflows, and I like taking an idea all the way from a rough spec to something people use. Most of my recent work is about connecting AI agents to real tools: discovering what a tool can do, getting the right authorization, calling it correctly and turning the result into something useful.
 
-<img src="./assets/agent-rack.svg" width="100%" alt="How an agent run is wired: a request goes into the agent, the agent calls tools through an MCP server, results come back, and the agent replies"/>
+<img src="./assets/work.svg" width="100%" alt="What I do: full-stack apps, AI agents and MCP, integrations, product engineering"/>
 
-### What I do
+<img src="./assets/stack.svg" width="100%" alt="Stack: TypeScript, JavaScript, Python, C++, HTML, CSS, React, Next.js, Redux, Tailwind, Bootstrap, Node.js, Express, FastAPI, REST APIs, MongoDB, MySQL, Redis, Docker, Git, GitHub, Vercel, Netlify, MCP, OAuth, tool calling, API integrations"/>
 
-**Full-stack apps.** Production web apps in React, Next.js, Node.js and Python, from the interface down to the database.
-
-**AI agents and MCP.** Agents and workflows that connect to external tools through MCP servers, custom providers and OAuth-scoped tool execution.
-
-**Integrations.** Search, calendar, email, chat and CRM services wired into pipelines that keep working after the demo.
-
-**Product engineering.** Turning requirements and designs into software that ships and holds up.
-
-<img src="./assets/stack.svg" width="100%" alt="Stack: TypeScript, JavaScript, Python, C++, HTML, CSS, React, Next.js, Redux, Tailwind, Bootstrap, Node.js, Express, FastAPI, REST, MongoDB, MySQL, Redis, Docker, Git, GitHub, Vercel, Netlify, MCP, OAuth, tool calling, API integrations"/>
-
-### Currently interested in
-
-Building products from scratch, agent tool orchestration, backend systems that scale, developer tools and automation, and open-source work with other engineers. If you're building something in that space, I'd like to hear about it.
+Right now I'm most interested in building products from scratch, agent tool orchestration, backend systems that scale, developer tools and automation, and open-source work with other engineers. If you're building something in that space, I'd like to hear about it.
 
 <img src="./assets/generated/stats.svg" width="100%" alt="GitHub activity: contributions, streaks and languages"/>
 
