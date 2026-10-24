@@ -1,22 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=Parv%20Mittal&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Product%20Developer%20%7C%20AI%20Agent%20Engineer&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Parv%20Mittal&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Product%20Developer%20%7C%20AI%20Agent%20Engineer&descAlignY=58&descAlign=50" width="100%"/>
 
 <br/>
 
-<a href="https://github.com/parv15">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+AI+Agents+%26+MCP+Workflows;Shipping+Full-Stack+Products;Turning+Ideas+into+Production+Code;Automating+the+Boring+Stuff+with+AI" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+AI+Agents+%26+MCP+Workflows;Shipping+Full-Stack+Products;Turning+Ideas+into+Production+Code;Automating+Workflows+with+AI" alt="Typing SVG" />
 
 <br/><br/>
 
 <img src="https://visitcount.itsvg.in/api?id=parv15&icon=4&color=3" alt="visitor count"/>
 <img src="https://img.shields.io/github/followers/parv15?label=Followers&style=for-the-badge&color=a78bfa" alt="followers"/>
-
-<br/><br/>
-
-<a href="#"><img src="https://img.shields.io/badge/Infrasity-Product%20Developer-0f0c29?style=for-the-badge&logoColor=white&labelColor=302b63" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Scalekit-AI%20Agent%20Dev-0f0c29?style=for-the-badge&logoColor=white&labelColor=302b63" /></a>
 
 </div>
 
@@ -29,10 +22,10 @@
 ```yaml
 parv_mittal:
   role: ["Software Engineer", "Product Developer", "AI Agent Engineer"]
-  currently:
-    - Building products at Infrasity (ThreadFlow, Content Hub)
-    - Exploring AI agents, MCP integrations and intelligent automation
-  philosophy: "Take ideas from concept to production, across the entire stack."
+  currently_building: "Full-stack products, automation workflows, and AI-powered tools"
+  currently_exploring: "AI agents, MCP integrations, and intelligent automation"
+  open_to: "Collaborating on web development and AI agent projects"
+  ask_me_about: "React, Next.js, MCP, and AI agent workflows"
 ```
 
 <br/>
@@ -74,35 +67,13 @@ Turning requirements and designs into reliable, functional, shipped applications
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
 
-## Experience
+## Focus Areas
 
-<table align="center" width="100%">
-<tr>
-<td width="100%">
-
-### Product Developer — Infrasity
-<img src="https://img.shields.io/badge/Status-Current-success?style=flat-square"/>
-
-- Developing products and applications, including **ThreadFlow** and **Content Hub**
-- Building integrations with **Reddit Search**, **Google Search Console**, and **Google Docs Search**
-- Developing workflows involving **Gmail**, **Google Calendar**, **Slack**, and **HubSpot**
-- Working across frontend, backend logic, API integrations, and product improvements
-
-</td>
-</tr>
-<tr>
-<td width="100%">
-
-### AI Agent Development — Scalekit
-
-- Created AI agents and workflows that connect AI systems with external tools
-- Worked with **MCP integrations**, custom providers, **OAuth authorization**, and tool execution
-- Developed a **Grafana MCP integration** — connector configuration, tool discovery, and execution
-- Explored ways to make external services accessible through AI-powered workflows
-
-</td>
-</tr>
-</table>
+- Building AI agents and workflows that connect AI systems with external tools
+- Working with MCP integrations, custom providers, OAuth authorization, and tool execution
+- Building connector and integration pipelines — search, calendar, email, chat, and CRM tools
+- Developing scalable full-stack applications and backend systems
+- Exploring developer tools, automation, and open-source collaboration
 
 <br/>
 
@@ -129,6 +100,7 @@ Turning requirements and designs into reliable, functional, shipped applications
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 <br/>
 
@@ -154,6 +126,7 @@ Turning requirements and designs into reliable, functional, shipped applications
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7)
 ![OAuth](https://img.shields.io/badge/OAuth-4A4A55?style=for-the-badge&logo=auth0&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-6E56CF?style=for-the-badge&logo=anthropic&logoColor=white)
 
@@ -168,7 +141,7 @@ Turning requirements and designs into reliable, functional, shipped applications
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=parv15&show_icons=true&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&count_private=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=parv15&hide_border=true&theme=tokyonight&background=0D1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=parv15&hide_border=true&theme=tokyonight&background=0D1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" height="165"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parv15&layout=compact&hide_border=true&theme=tokyonight&bg_color=0D1117&title_color=a78bfa&text_color=c9d1d9" height="165"/>
 
@@ -179,22 +152,6 @@ Turning requirements and designs into reliable, functional, shipped applications
 <br/><br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=parv15&theme=tokyonight&no-frame=true&margin-w=8&row=1"/>
-
-</div>
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
-
-## Interested In
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Building_software_products_from_scratch-0f0c29?style=for-the-badge&labelColor=302b63"/><br/>
-<img src="https://img.shields.io/badge/AI_agents,_MCP_and_tool_orchestration-0f0c29?style=for-the-badge&labelColor=302b63"/><br/>
-<img src="https://img.shields.io/badge/Scalable_full--stack_systems-0f0c29?style=for-the-badge&labelColor=302b63"/><br/>
-<img src="https://img.shields.io/badge/Developer_tools_and_automation-0f0c29?style=for-the-badge&labelColor=302b63"/><br/>
-<img src="https://img.shields.io/badge/Open--source_and_collaborative_engineering-0f0c29?style=for-the-badge&labelColor=302b63"/>
 
 </div>
 
